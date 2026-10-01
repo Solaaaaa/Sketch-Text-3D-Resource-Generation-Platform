@@ -1,2 +1,2 @@
-# ---3D-
+# Sketch + Text 3D Resource Generation Platform
 构建中...

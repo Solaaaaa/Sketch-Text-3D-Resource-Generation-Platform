@@ -1,0 +1,12 @@
+# Keep later ComfyUI installs from silently replacing the selected inference stack.
+# GPU/ABI suitability of this observed stack must be checked on the new server.
+torch==2.8.0
+torchvision==0.23.0
+torchaudio==2.8.0
+transformers==4.57.3
+huggingface-hub==0.36.0
+gradio==6.9.0
+gradio-litmodel3d==0.0.1
+numpy==2.2.6
+pillow==10.4.0
+rembg==2.0.67
